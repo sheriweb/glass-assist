@@ -1,0 +1,16 @@
+@media only screen and (min-width: 992px) {
+    .custom-col {
+        width: 48% !important;
+    }
+}
+
+#sig-canvas, #sig-canvas2 {
+    border: 2px dotted #CCCCCC;
+    border-radius: 15px;
+    cursor: crosshair;
+    overflow: hidden;
+}
+
+.fc-daygrid-event {
+    white-space: pre-line !important;
+}
